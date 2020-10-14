@@ -200,12 +200,12 @@ p.col2{
 }
 
 .photos{
-  padding: 10px 20px;
+  padding: 10px 0;
 }
 
 .photos img{
-  padding-bottom: 10px;
-  width: 399px;
+  padding-bottom: 20px;
+  width: 100%;
 }
 @media only screen and (min-width: 1060px){
 
